@@ -1,4 +1,4 @@
-# Darwin Agents
+# AdAura
 
 **Una economía de agentes de marketing autónomos donde el presupuesto lo custodia Ethereum y la estrategia la encuentra la selección natural.**
 
